@@ -156,7 +156,12 @@ function Resume() {
               ]}
             />
           <h3 className="resume-title">Education</h3>  
-          <Resumecontent
+            <Resumecontent
+              title="COMPUTER SCIENCE [Bsc.] "
+              date="2010 - 2014"
+              content={["Protestant University of West Africa"]}
+            />
+            <Resumecontent
               title="COMPUTER ENGINEERING [HND] "
               date="2003 - 2008"
               content={["Osun State Polytechnic"]}
@@ -172,7 +177,7 @@ function Resume() {
                 "Certified Network Security Specialist -ICSI (International Cybersecurity Institute), UK.",
                 "DevOps V2 by IBM.",
                 "Google Digital Skills for Africa.",
-                "ortinet Network Security Expert .",
+                "Fortinet Network Security Expert .",
                 "Docker Essentials: A Developer Introduction by IBM.",
                 "IBM Cloud Kubernetes Service.",
                 "Windows Server 2016: Install and Configure Active Directory.",

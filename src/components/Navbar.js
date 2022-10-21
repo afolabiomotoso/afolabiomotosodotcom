@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumyajit.tech/"
+                href="https://medium.com/technology-hits/free-microsoft-azure-certification-2022-798998069c87"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/afolabiomotoso/Portfolio"
+                href="https://github.com/avurlerby/afolabiomotosodotcom"
                 target="_blank"
                 className="fork-btn-inner"
               >
